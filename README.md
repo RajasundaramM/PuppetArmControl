@@ -25,7 +25,11 @@ The following modes are programmed to employ puppet mirroring as an usable robot
 
 ## Result and scope of improvement
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VsuDK407MbY" frameborder="0" allowfullscreen></iframe>
+<p align="center">
+  <a href="https://youtu.be/VsuDK407MbY">
+    <img src="PuppetArmControl.gif" alt="Project Demo" width="848" height="382">
+  </a>
+</p>
 
 The puppet mirroring works reasonably well with the signal filtering method discussed above. However, further improvements can be made to the puppet mechanical design or more advanced filtering techniques can be employed to eliminate noise 
 caused by vibrations from human hands.
